@@ -1,4 +1,9 @@
-# This script is used for syncing parts of the rustup dist server
+#<#FF00FF><#000000>
+({@@ -1,4 +1,7 @@}
+#FF2801*
+)
+his
+ This script is used for syncing parts of the rustup dist server
 # between the dev environment (dev-static.rlo), the local machine, and
 # the prod environment (static.rlo). It's used during the deployment process.
 #
